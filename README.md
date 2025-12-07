@@ -1,5 +1,7 @@
 csc411-producer-consumer
 
+Zamokuhle Mphila (202202813)
+
 This project implements a producer-consumer system using TCP sockets on Windows. The consumer listens on a port and processes incoming XML messages from the producer. Buffer rules and XML parsing are applied via XMLHelper.
 
 Requirements
