@@ -41,3 +41,6 @@ Run the demo
 Configuration
 - Ports, IP, and buffer sizes are set in code (see consumersocket.cpp / producersocket.cpp).
 - XML parsing helpers live in XMLHelper.cpp/.h.
+
+Demo Video
+Get the demo video here: https://youtu.be/ycHRUCLUNp0?si=YnfdbUk_7xoZgTOh
